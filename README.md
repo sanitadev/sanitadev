@@ -8,4 +8,4 @@ Hello world! I'm Sanita, and I make a cool stuff on my laptop. Mostly working on
 
 
 
-![Codewars Badge](https://www.codewars.com/users/sanitadev/badges/large)
+![Codewars Badge](https://www.codewars.com/users/sanitadev/badges/small)
