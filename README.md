@@ -3,9 +3,8 @@ Hello World! <a href='https://ko-fi.com/sanitadev' target='_blank'><img height='
 
 Hello world! I'm Sanita, and I make a cool stuff on my laptop. Mostly working on apps, and website. You can find most of it here.
 
-
-
-
-
+     🔭 I’m currently working on 
+     
+     📫 How to reach me: 🐤 📧 
 
 ![Codewars Badge](https://www.codewars.com/users/sanitadev/badges/small)
