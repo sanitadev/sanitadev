@@ -7,4 +7,4 @@ Hello world! I'm Sanita, and I make a cool stuff on my laptop. Mostly working on
      
      📫 How to reach me: 🐤 📧 
 
-![Codewars Badge](https://www.codewars.com/users/sanitadev/badges/large)
+![Codewars Badge](https://www.codewars.com/users/sanitadev/badges/medium)
