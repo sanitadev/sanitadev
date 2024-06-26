@@ -7,5 +7,11 @@
      🔭 I’m currently working on "------"
      🚀
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
-
+     TECH STACK:
+     FRONTEND:               BACKEND: 
+     HTML                    
+     CSS
+     JAVASCRIPT
+     REACT.JS
+     BOOTSTRAP
 
