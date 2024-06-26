@@ -4,14 +4,9 @@
     My journey into the world of programming is fueled by an insatiable curiosity and a love for crafting digital experiences. <br><br>
     
      
-     🔭 I’m currently working on "------"
-     🚀
+     🔭 I’m currently working on my own photographer's portfolio for a photography hobby I do in my freetime. More projects will be posted by the time.
+     🚀 I mostly do a digital creative stuff that shows my coding skills.
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
-     TECH STACK:
-     FRONTEND:               BACKEND: 
-     HTML                    
-     CSS
-     JAVASCRIPT
-     REACT.JS
-     BOOTSTRAP
+
+    
 
