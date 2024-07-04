@@ -9,5 +9,5 @@
      🚀 I mostly do a digital creative stuff that shows my coding skills.
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
 
-    <a href="https://www.patreon.com/SanitaDev" title="Support me on Patreon">Support me on Patreon</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev)
 
