@@ -9,4 +9,4 @@
      🚀 I mostly do a digital creative stuff that shows my coding skills.
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev)  patreon: SanitaDev
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev)  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sanitadev" data-color="#FFDD00" data-emoji="☕"  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
