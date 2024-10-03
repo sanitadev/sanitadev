@@ -10,3 +10,4 @@
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev)  
+[![roadmap.sh](https://roadmap.sh/card/tall/66bf6d1691320df4bd1acce9?variant=dark)](https://roadmap.sh)
