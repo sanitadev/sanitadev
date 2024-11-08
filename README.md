@@ -9,6 +9,6 @@
      🚀 I mostly do a digital creative stuff that shows my coding skills.
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev)  
-[![patreon](https://ko-fi.com/img/githubbutton_sm.svg)](https://patreon.com/sanitadev)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev)  <a href="https://www.patreon.com/bePatron?u=101406790" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+ 
 
