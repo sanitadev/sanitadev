@@ -10,4 +10,5 @@
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev)  
+If you like my work, consider supporting me on [Patreon](https://www.patreon.com/yourusername).
 
