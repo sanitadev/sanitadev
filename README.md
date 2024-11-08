@@ -10,7 +10,7 @@
      📫 How to reach me: 🐤 📧colpasanita@gmail.com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sanitadev) 
-[patreon](https://img.shields.io/badge/Patreon-Become%20a%20Patron-red.svg)](https://www.patreon.com/c/SanitaDev)
+[![Become a Patron](https://img.shields.io/badge/Patreon-Become%20a%20Patron-red.svg)](https://www.patreon.com/bePatron?u=101406790)
 
 
  
