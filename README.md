@@ -27,3 +27,6 @@ Here are some of my notable projects:
 - [Project 2](https://github.com/sanitadev/project2): A brief description of what Project 2 does.
 - [Project 3](https://github.com/sanitadev/project3): A brief description of what Project 3 does.
 
+## 💬 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
