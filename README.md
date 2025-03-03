@@ -14,5 +14,7 @@ I'm a passionate software developer with a deep interest in creating robust and 
 - Machine Learning with TensorFlow and PyTorch
 - Kubernetes and Cloud-native technologies
 
- 
+ ## 📈 GitHub Stats
+![Sanitadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanitadev&show_icons=true&theme=radical)
+
 
