@@ -20,3 +20,10 @@ I'm a passionate software developer with a deep interest in creating robust and 
 ## 📫 How to reach me
 - **Email:** [colpasanita@gmail.com](mailto:colpasanita@gmail.com)
 - **LinkedIn:** [sanitacolpa](https://www.linkedin.com/in/sanitacolpa/)
+
+## 💡 Projects
+Here are some of my notable projects:
+- [Project 1](https://github.com/sanitadev/project1): A brief description of what Project 1 does.
+- [Project 2](https://github.com/sanitadev/project2): A brief description of what Project 2 does.
+- [Project 3](https://github.com/sanitadev/project3): A brief description of what Project 3 does.
+
