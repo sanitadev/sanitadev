@@ -9,8 +9,10 @@ I'm a passionate software developer with a deep interest in creating robust and 
 - **DevOps:** Docker, Postman, Jenkins, GitHub Actions
 - **Others:** GraphQL, RESTful APIs, CI/CD, 
 
-
-
+## 🌱 Currently Learning
+- Rust
+- Machine Learning with TensorFlow and PyTorch
+- Kubernetes and Cloud-native technologies
 
  
 
