@@ -20,20 +20,14 @@ I'm a passionate software developer with a deep interest in creating robust and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanitadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 How to reach me
-- **Email:** [colpasanita@gmail.com](mailto:colpasanita@gmail.com)
-- **LinkedIn:** [sanitacolpa](https://www.linkedin.com/in/sanitacolpa/)
+- **Email:** [email](mailto:colpasanita@gmail.com)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/sanitacolpa/)
 
 ## 💡 Projects
-Here are some of my notable projects:
-- [Project 1](https://github.com/sanitadev/project1): A brief description of what Project 1 does.
-- [Project 2](https://github.com/sanitadev/project2): A brief description of what Project 2 does.
-- [Project 3](https://github.com/sanitadev/project3): A brief description of what Project 3 does.
-
-## 🚀 Open Source Contributions
-I love contributing to open source projects. Here are some projects I have contributed to:
-- [Open Source Project 1](https://github.com/opensource/project1): A brief description of my contribution.
-- [Open Source Project 2](https://github.com/opensource/project2): A brief description of my contribution.
-- [Open Source Project 3](https://github.com/opensource/project3): A brief description of my contribution.
+Here are some of my notable projects I'm working on:
+- [Triplore](https://github.com/sanitadev/triplore): --
+- [Revoico](https://github.com/sanitadev/revoico):--
+- [Personal Portfolio](https://github.com/sanitadev/sanita.dev): --
 
 
 ## 💬 Let's Connect!
