@@ -27,7 +27,6 @@ I'm a passionate software developer with a deep interest in creating robust and 
 Here are some of my notable projects I'm working on:
 - [Triplore](https://github.com/sanitadev/triplore): --
 - [Revoico](https://github.com/sanitadev/revoico):--
-- [Personal Portfolio](https://github.com/sanitadev/sanita.dev): --
 
 
 ## 💬 Let's Connect!
