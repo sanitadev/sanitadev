@@ -10,7 +10,7 @@ I'm a passionate software developer with a deep interest in creating robust and 
 - **Others:** GraphQL, RESTful APIs, CI/CD, 
 
 ## 🌱 Currently Learning
-- Rust
-- Machine Learning with TensorFlow and PyTorch
-- Kubernetes and Cloud-native technologies
+- 1
+- 2
+- 3
 
