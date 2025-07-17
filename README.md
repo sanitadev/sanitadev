@@ -8,9 +8,3 @@ I'm a passionate software developer with a deep interest in creating robust and 
 - **Databases:** PostgreSQL, MongoDB, MySQL, SQL
 - **DevOps:** Docker, Postman, Jenkins, GitHub Actions
 - **Others:** GraphQL, RESTful APIs, CI/CD, 
-
-## 🌱 Currently Learning
-- 1
-- 2
-- 3
-
